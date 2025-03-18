@@ -1,0 +1,6 @@
+초기설정을 입력해주세요(공백없이 바로 작성하시기 바랍니다.)
+NAVER_ID=id
+NAVER_PW=password
+BOARD=https://cafe.naver.com/ArticleList.nhn?search.clubid=30977951&search.menuid=387&search.boardtype=I&search.totalCount=201&search.cafeId=30977951
+페이지 수=20
+한페이지의 게시판 수=20
